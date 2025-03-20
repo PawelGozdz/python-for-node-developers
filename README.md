@@ -15,6 +15,7 @@ Lectures are using markdown with some additional plugins for `Obsidian` ("datavi
 - Python vs Node.js project structure
 - Environment Isolation (venv vs nvm)
 - Package Management (pip vs npm/yarn)
+- Jupyter Notebooks
 
 **Section 3: Module System and Scope**
 - import/export in Python vs ES modules
