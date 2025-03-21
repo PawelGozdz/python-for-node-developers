@@ -2,7 +2,7 @@
 
 Lectures are using markdown with some additional plugins for `Obsidian` ("dataview") in case if we decide to link files one to the other.
 
-## Python-for-TS-developers course Sections
+## Python-for-Node-developers course Sections
 
 **Section 1: Python Ecosystem Basics for TS Developers**
 - Python version differences (2 vs 3)
