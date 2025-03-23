@@ -1,5 +1,10 @@
 # Course info
 
+### Info
+
+### Goals
+Course is designed to make TS developer grasp an idea of a new language and start working asap.
+
 Lectures are using markdown with some additional plugins for `Obsidian` ("dataview") in case if we decide to link files one to the other.
 
 ## Python-for-Node-developers course Sections
@@ -17,7 +22,7 @@ Lectures are using markdown with some additional plugins for `Obsidian` ("datavi
 - Package Management (pip vs npm/yarn)
 - Jupyter Notebooks
 
-**Section 3: Module System and Scope**
+**Section 3: Module System and Scope**cd
 - import/export in Python vs ES modules
 - Module paths and PYTHONPATH vs NODE_PATH
 - Namespaces in Python vs scope in JS
