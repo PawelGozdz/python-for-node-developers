@@ -37,9 +37,8 @@ Lectures are using markdown with some additional plugins for `Obsidian` ("datavi
 - Logical operators (and/or vs &&/||)
 
 **Section 5: Functions and Parameters**
-- Function definition (def vs function/arrow functions)
+- [Function Definitions Python vs TypeScript](Section-1/S5L1 Function Definitions Python vs TypeScript.md)
 - Default and named parameters (key difference vs JS)
-- *args and **kwargs vs rest/spread operator
 - Decorators vs Higher Order Functions
 - Type annotations in functions
 
